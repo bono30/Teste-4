@@ -1,2 +1,1 @@
-# Teste-4
-Teste
+# Stats Solver\n\nWeb App para análise estatística completa.
